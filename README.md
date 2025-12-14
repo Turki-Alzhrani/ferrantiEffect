@@ -4,7 +4,7 @@ The Ferranti Effect is a critical power system phenomenon where the receiving-en
 ##  Simulation Setup
 We have followed the requirments of the file [**Power System Simulation Project (1).pdf**](Power%20System%20Simulation%20Project%20(1).pdf) 
 ##  Simulation Circuit
-[case 3 at no load](ferrantiEffect\Image\Case3AtNoLoadLast-.png)
+[case 3 at no load](ferrantiEffect/Image/Case3AtNoLoadLast-.png)
 [case 3 at load](Case3AtLoad100Last.png)
 ##  Simulation Result
 The full simulation data is available in the [**ProjectExcelResultlast.xlsx**](ProjectExcelResultlast.xlsx) file.
