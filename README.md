@@ -20,4 +20,4 @@ To run the model:
 2.  Open the `Case3AtLoad100` file in MATLAB.
 3.  Run the simulation. All readings will be available through display blocks in the model.
 
-Aurthers [Turki Alzahrani,Omar Alghamdi,Hashim Althomali,Turki Althobiti]
+Aurthers [Turki Alzahrani,Omar Alghamdi,Hashim Althumali,Turki Althobiti]
